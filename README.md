@@ -1,5 +1,5 @@
-# Online-Survey-System
-A simple desktop-based Online Survey System built using Java, Swing, and MySQL. The system allows users to enter their User ID and proceed to available surveys. The logic is handled through a SurveyController that manages survey retrieval, display, and user responses.
+# Survey Application
+A simple desktop-based Survey System built using Java, Swing, and MySQL. The system allows users to enter their User ID and proceed to available surveys. The logic is handled through a SurveyController that manages survey retrieval, display, and user responses.
 
 ⚠️ Important:
 This project will NOT run immediately after cloning.
